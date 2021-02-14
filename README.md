@@ -1,2 +1,5 @@
 # Jeu 1000 Bornes, Application Python
-Le but de ce projet est d'appliquer les connaissances en programmation orientée objet ainsi la modélisation en diagramme de classe UML, ce jeu de carte est très connu notament ce joue soit en équipe soit individuellement, et même j'ai implémenté un joueur intelligent ce qui veut dire on peut jouer contre la machine.  
+
+le but de projet est d'estimer un contour pour un nuage de point correspondant au contour d'un myocarde, en utilisant des hyper-quadrique et des algorithmes d'optimisation tel que la descente de gradient, la méthode de newton, ainsi que la méthode de levenberg marquardt, avec une interface graphique IHM implémenté en utilisant Tkinter
+
+Skills: optimisation, traitement de données, développement logiciel et interface graphique sur tkinter 
