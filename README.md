@@ -1,6 +1,6 @@
 # Jeu 1000 Bornes, Application Python
 
-## ce projet est réalisé dans le cadre de mon mster à sorbonne université
+## ce projet est réalisé dans le cadre de mon master 1 à sorbonne université
 
 le but de projet et d'implémenter un jeu de carte 1000 Bornes capable de gérer la partie de plusieurs joueurs et même des joueurs robots qui sont une intelligence artificielle, en se basant sur la programmation orientée objet, aussi la modélisation en diagramme de classe UML
 
